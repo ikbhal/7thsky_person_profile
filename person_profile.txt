@@ -1,0 +1,74 @@
+Person Profile
+---
+Education: Btech
+Branch: Computer Science
+Passed out year: 2018
+should pass, not worry about percentage
+English skills:  not required
+aptitude: not required
+reasoning: not required
+any programming language:  not required
+
+teaching : local english (telugu , hindi, english)
+
+syllabus
+---
+HTML
+CSS
+Bootstrap
+javascript
+react
+node.js
+express
+mongodb
+
+career
+---
+1) front end developer
+1) backend developer
+1) full stack developer
+
+Time period: 3 months -> get job in startup, 
+salary: 2.5 laksh per year, 3 to 5 laksh per year
+
+>90 => 6 lakhs per anum
+80 to 70 => 5 lakh per anum
+>60 => 3lakh per anum
+
+teacher help: 2 hr
+ morning 1hr
+ evening 2hr
+daily practice: 8 hours
+
+No list
+---
+. no other branches
+. no students
+. no job doers
+. around bangalore
+. not worry about percentage
+. English skills:  not required
+. aptitude: not required
+. reasoning: not required
+. any programming language  not required
+
+Goal:
+10 customers approach in a week
+3 customer leads in a week
+1 customer in 2 weeks
+3 customer in a month
+
+filter customer again
+
+system procedure
+---
+curriculum
+daily routine
+daily assignment
+weekly assignment
+monthly assignment
+
+pair programming
+daily code wars
+
+ready videos, classes, materials, chats
